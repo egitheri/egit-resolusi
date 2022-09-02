@@ -5,3 +5,4 @@ EGIT RESOLUSI
 - Kumpulin duit untuk pulang ke bekasi nengok orang tua
 - Jalan-jalan sama keluarga
 - testing conflict
+- testing conflict 2
