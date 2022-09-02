@@ -4,3 +4,4 @@ EGIT RESOLUSI
 - Memiliki produk aplikasi Android & Ios menggunakan flutter.
 - Kumpulin duit untuk pulang ke bekasi nengok orang tua
 - Jalan-jalan sama keluarga
+- testing conflict
