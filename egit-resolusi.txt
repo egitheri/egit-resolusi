@@ -4,3 +4,4 @@ EGIT RESOLUSI
 - Konisten mendalamai bahasa pemograman dart 
 - Memiliki produk aplikasi Android & Ios menggunakan flutter.
 - Kumpulin duit untuk pulang ke bekasi nengok orang tua
+- Jalan-jalan sama keluarga
